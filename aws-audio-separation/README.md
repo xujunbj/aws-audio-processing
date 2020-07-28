@@ -1,1 +1,1 @@
-# separate application
+Speech separation based on DPRNN.
